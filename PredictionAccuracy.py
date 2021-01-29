@@ -1,6 +1,6 @@
 
 ################################################################################
-# ShootoutValidity.py - Sports statistics project                              #
+# PredictionAccuracy.py - Sports statistics project                            #
 #                                                                              #
 # Explore the prediction accuracy of betting odds                              #
 # for NHL games. Compare accuracy for different endings                        #
